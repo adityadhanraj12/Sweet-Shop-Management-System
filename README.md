@@ -37,7 +37,6 @@ A full-stack application designed to manage a sweet shop, featuring user authent
 
 - Node.js (version 18 or higher)
 - npm or yarn package manager
-- Wix account and site
 
 ### Installation
 
